@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSClass2
 {
-    class IBasic
+    interface IBasic
     {
     }
 }
