@@ -14,7 +14,7 @@ namespace CSClass2
         public int CompareTo(Product other)
         {
             //return this.Price.CompareTo(other.Price);
-            return this.Name.CompareTo(other.Price); 
+            return this.Name.CompareTo(other.Name); 
             /*
             // 0 : 같다, 음수 : 작다, 양수 : 크다
             int result = 0;
